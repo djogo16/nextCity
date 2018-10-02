@@ -1,0 +1,14 @@
+.NavigationBar{
+    list-style: none;
+    display: flex;
+    height: 100%;
+    padding: 16px 10px;
+    font-size:20px;
+
+}
+@media (max-width :500px){
+    .NavigationBar{
+        display: flex;
+        padding : 0;
+    }
+}

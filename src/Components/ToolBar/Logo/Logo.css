@@ -1,0 +1,8 @@
+.Logo{
+    height:100%;
+}
+@media (max-width : 500px){
+    .Logo img{
+        width: 50%;
+    }
+}
